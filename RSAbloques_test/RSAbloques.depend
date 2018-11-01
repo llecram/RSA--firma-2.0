@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1538690312 source:d:\programas\rsabloques\main.cpp
+	"rsa.h"
+
+1538689581 source:d:\programas\rsabloques\ops.cpp
+	"ops.h"
+
+1538689384 d:\programas\rsabloques\ops.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<NTL/ZZ.h>
+
+1538690016 source:d:\programas\rsabloques\src\rsa.cpp
+	"rsa.h"
+
+1538689859 d:\programas\rsabloques\include\rsa.h
+	"..\ops.h"
+
+1540988612 source:d:\programas hechos por mi\rsabloques_test\main.cpp
+	"rsa.h"
+
+1538689859 d:\programas hechos por mi\rsabloques_test\include\rsa.h
+	"..\ops.h"
+
+1540988548 d:\programas hechos por mi\rsabloques_test\ops.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<NTL/ZZ.h>
+
+1540988548 source:d:\programas hechos por mi\rsabloques_test\ops.cpp
+	"ops.h"
+
+1540988655 source:d:\programas hechos por mi\rsabloques_test\src\rsa.cpp
+	"rsa.h"
+
